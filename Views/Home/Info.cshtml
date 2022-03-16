@@ -1,0 +1,41 @@
+@model List<Agendamento>
+@{
+    ViewData["Title"] = "Meus Agendamento";
+}
+
+<head>
+    <div class="text-center">
+        <h1 class="display-4">Pet Vet</h1>
+    </div>
+    <link href="~\css\site.css" rel="stylesheet" type="background-image\css">
+    </head>
+
+<body class="fundo">
+    <link href="~\css\site.css" rel="stylesheet" type="background-image\css">
+    <div>
+        <table border="1">
+            <thead>
+                <th>Nome</th>
+                <th>Telefone</th>
+                <th>Data</th>
+                <th>Animal(Serviço)</th>
+                <th>Necessidade</th>
+            </thead>
+            <tbody>
+                @foreach (Agendamento i in Model)
+                {
+                    <tr>
+                        <td>@i.nome</td>
+                        <td>@i.tel</td>
+                        <td>@i.data</td>
+                        <td>@i.animal</td>
+                        <td>@i.need</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <a asp-action= "Agendamento">Novo Agendamento</a>
+            </div>
+</body>

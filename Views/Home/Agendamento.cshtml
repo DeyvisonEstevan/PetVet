@@ -1,0 +1,46 @@
+@model Agendamento
+@{
+    ViewData["Title"] = "Agendamento";
+}
+
+<head>
+    <div class="text-center">
+        <h1 class="display-4">Pet Vet</h1>
+    </div>
+    <link href="~\css\site.css" rel="stylesheet" type="background-image\css">
+</head>
+
+<body class="fundo">
+     <div class="text-center">
+        <h2 class="display-5">Pré-Agendamento</h2>
+    </div>
+    <div>
+        <form method="POST">
+            <p>
+                <label>Nome:</label>
+                <input type="text" asp-for="nome">
+            </p>
+            <p>
+                <label>Telefone:</label>
+                <input type="text" asp-for="tel">
+            </p>
+            <label>Data:</label>
+            <input type="date" asp-for="data">
+            </p>
+            <label Animal>Animal(Serviço)</label>
+            <select asp-for="animal">
+                <option value="consultas">Consulta Padrão</option>
+                <option value="exames">Exame de Rotina</option>
+                <option value="cirurgias">Cirurgias de Emergência</option>
+                <option value="terapias">Terapia(Seção Individual)</option>
+                <option value="fisioterapias">Fisioterapia(Seção Individual)</option>
+            </select>
+            </p>
+            <p>
+                <label>Necessidade:</label>
+                <textarea asp-for="need"></textarea>
+            </p>
+            <input type="submit" value="Enviar" </form>
+    </div>
+
+</body>

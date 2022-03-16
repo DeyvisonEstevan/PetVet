@@ -1,0 +1,78 @@
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.exe
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.deps.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.dev.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.Views.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csprojAssemblyReference.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.input.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.output.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorCoreGenerate.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.Manifest.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.xml
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.genruntimeconfig.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CopyComplete
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.exe
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.deps.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.runtimeconfig.dev.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.Views.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\bin\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csprojAssemblyReference.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.AssemblyInfo.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.input.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.TagHelpers.output.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorCoreGenerate.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.Manifest.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.xml
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.genruntimeconfig.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\UC05\c#\Atividade 3\obj\Debug\netcoreapp3.1\Atividade 3.csproj.CopyComplete
